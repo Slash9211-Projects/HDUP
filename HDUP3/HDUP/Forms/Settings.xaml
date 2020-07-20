@@ -1,0 +1,16 @@
+﻿<Window x:Class="HDUP3.HDUP.Forms.Settings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HDUP3.HDUP.Forms"
+        mc:Ignorable="d"
+        Title="Settings" Height="450" Width="306.638">
+    <Grid Margin="0,0,-8,0">
+        <Rectangle Fill="#FF7171D3" HorizontalAlignment="Left" Height="65" Margin="-9,0,-8,0" Stroke="Black" VerticalAlignment="Top" Width="314"/>
+        <Rectangle Fill="#FF787878" HorizontalAlignment="Left" Height="1" Margin="15,118,0,0" Stroke="#FF787878" VerticalAlignment="Top" Width="71" Opacity="0.5" RenderTransformOrigin="-0.004,0.469"/>
+        <Label Content="Store ID" HorizontalAlignment="Left" Margin="10,81,0,0" VerticalAlignment="Top" Foreground="#FF787878" Opacity="0.75" RenderTransformOrigin="0.111,0.49"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,100,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="76" Background="Transparent" BorderBrush="Transparent"/>
+
+    </Grid>
+</Window>

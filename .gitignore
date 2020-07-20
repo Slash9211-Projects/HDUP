@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/HDUP3/Properties/Settings.settings
+/HDUP3/Properties
+/HDUP3/App.xaml.cs
+/HDUP3/App.xaml
+/HDUP3/App.config
